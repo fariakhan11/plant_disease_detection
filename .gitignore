@@ -1,9 +1,16 @@
-__pycache__/
+# Large and unwanted files
 mlruns/
+data/
+__pycache__/
 *.h5
 *.pkl
 *.pt
-.env
-data/
-notebooks/
+*.tflite
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.avi
+*.zip
+*.tar
 Plant_Disease_Classification/New Plant Diseases Dataset*/

@@ -1,0 +1,9 @@
+__pycache__/
+mlruns/
+*.h5
+*.pkl
+*.pt
+.env
+data/
+notebooks/
+Plant_Disease_Classification/New Plant Diseases Dataset*/
